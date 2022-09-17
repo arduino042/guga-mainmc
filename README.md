@@ -13,14 +13,13 @@
     :maple_leaf:
     <strong>Language:</strong> C/C++, NodeJs & PHP.
   </p>
-  
-  <p align="left">
-    :leaves:
-    <strong>Tools:</strong> Visual Studio Code, Vim & Git.
-  </p>
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
