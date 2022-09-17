@@ -7,36 +7,23 @@
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
-</div>
-
-
-
--------------------
-
 <div>
 
   <img align="right" width="300" src="https://img.itch.zone/aW1hZ2UvOTc3NTYzLzU1NTI5MjQuZ2lm/original/KXdhqD.gif" alt="avatar">
   <h1>Sobre</h1>
 
   <p align="left">
-    Venho me aperfeiçoando em Sistemas Embarcados
+    Me chamo Gustavo, venho me aperfeiçoando em Programação e Eletrônica pra sistemas embarcados.
   </p>
   
   <p align="left">
     :maple_leaf:
-    <strong>Language:</strong> Java, Lua.
+    <strong>Language:</strong> C/C++, NodeJs & PHP.
   </p>
   
   <p align="left">
     :leaves:
-    <strong>Tools:</strong> Visual Studio Code, IntelliJ, Git, Github and Sublime.
-  </p>
-  
-  <p align="left">
-    :globe_with_meridians:
-    <strong>Portfolio:</strong> Coming soon.
+    <strong>Tools:</strong> Visual Studio Code, Vim & Git.
   </p>
   
 <p align="left"> 
