@@ -1,10 +1,3 @@
-## Hi, 
-<div align="center">
-  <a href="https://github.com/guga-mainmc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guga-mainmc&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-mainmc&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
-
 <br>
 
 <div>
@@ -35,17 +28,11 @@
 <br>
 <br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailezinho&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sailezinho"/>
-</p>
-
-<br></br>
-<br></br>
-<br></br>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailezinho&show_icons=true&locale=en&theme=tokyonight" alt="sailezinho" />
-</p>
+<div align="center">
+  <a href="https://github.com/guga-mainmc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guga-mainmc&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guga-mainmc&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
 
 <br>
 
