@@ -7,9 +7,3 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://img.itch.zone/aW1hZ2UvOTc3NTYzLzU1NTI5MjQuZ2lm/original/KXdhqD.gif">
 </div>
-  
-  ##
- 
-<div>
-  ![Snake animation](https://github.com/guga-mainmc/guga-mainmc/blob/output/github-contribution-grid-snake.svg)
-</div>
